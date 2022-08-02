@@ -1,0 +1,38 @@
+body{
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.avtar{
+    width: 150px;
+    border: 1px solid white;
+}
+.card{
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: left;
+    background: #9ADCFF;
+    color: #2b2839;
+    border-bottom: 5px solid #56BBF1;
+    border-radius: 3px;
+}
+.border-blue{
+    border: 1px dotted rgb(75, 181, 216);
+}
+h3{
+    margin: 4px;
+    padding: 3px;
+}
+h5{
+    margin: 0px 2px 2px 6px;
+    padding: 0;
+    font-weight: 50;
+}
+p{
+    margin-top: 20px;
+    font-size: 10px;
+    padding: 4px;
+}
+
